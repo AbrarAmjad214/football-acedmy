@@ -384,16 +384,11 @@
   background: #fff;
   padding: 20px 30px;
   border-radius: 10px;
-  max-width: 1200px;
+  max-width: 1000px;
   margin: auto;
   box-shadow: 0 0 10px rgba(0,0,0,0.1);
 }
 
-.header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
 
 .photo-box {
   width: 100px;
@@ -419,13 +414,6 @@
   padding: 8px;
   margin: 20px 0 10px;
   font-weight: bold;
-}
-
-.row {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 15px;
-  margin-bottom: 15px;
 }
 
 label {
